@@ -1,0 +1,23 @@
+.title:hover{
+    background-color: #0085A1;
+    color: #FFF;
+    border-style: 0 0px #fff;
+
+}
+.button{
+    margin: 5px;
+    flex-basis: 10px;
+}
+.title{
+    font-weight: 50px;
+    border-style: solid 5px #c2c2c2;
+    margin: 5px;
+    font-size: 28px;
+    padding-bottom: 30px;
+    background-color: #FFF;
+    color:#000;
+    text-align: center;
+}
+p{
+    font-weight: 800;
+}
